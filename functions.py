@@ -1,7 +1,7 @@
-//Pythonic functions are defined by the reserved word "def"
-// followed by the name of the function "def function_name:"
+#Pythonic functions are defined by the reserved word "def"
+#followed by the name of the function "def function_name:"
 
-def function():  //simple function
+def function():  #simple function
   pass
 
 """
