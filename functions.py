@@ -12,4 +12,8 @@ def function():  #simple function
 def calculate_area(length, width):  
   """calculates the area of a rectangle and returns the output"""
   return int(length) * int(width)
+
+length = input("Enteer length:")
+width = input("Enteer width:")
+print("The area of the rectangle of width {} and length {} is {}".format(width, length, calculate_area(length, width)))
     
