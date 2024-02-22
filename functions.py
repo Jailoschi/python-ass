@@ -11,6 +11,5 @@ def function():  #simple function
 """
 def calculate_area(length, width):  
   """calculates the area of a rectangle and returns the output"""
-  area = int(length) * int(width)
-  return area
-  
+  return int(length) * int(width)
+    
